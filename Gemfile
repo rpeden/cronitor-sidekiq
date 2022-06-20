@@ -74,3 +74,4 @@ end
 gem "jsbundling-rails", "~> 1.0"
 gem "redis"
 gem "sidekiq"
+gem "sidekiq-cronitor"
